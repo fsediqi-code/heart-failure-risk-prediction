@@ -40,3 +40,9 @@ pip install -r requirements.txt
 
 Open the notebook:
 jupyter notebook notebooks/heart_failure_prediction.ipynb
+
+
+## Data Source
+
+The dataset used is the public *Heart Failure Clinical Records* dataset,
+available from the UCI Machine Learning Repository / Kaggle.
